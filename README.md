@@ -36,6 +36,9 @@ The system includes a companion Android application for remote control and monit
 The compiled Android app ready for installation.
 Smart_Plant_Care_System.aia: The source file, created using MIT App Inventor.
 
+![Alt text](pro_plan.png)
+
+
 ##  Installation & Usage
 1.  Upload the Arduino code to the Arduino Uno.
 2.  Connect all components as per the circuit diagram.

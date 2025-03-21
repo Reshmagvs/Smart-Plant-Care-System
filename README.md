@@ -38,6 +38,10 @@ Smart_Plant_Care_System.aia: The source file, created using MIT App Inventor.
 
 ![Alt text](pro_plan.png)
 
+## App path
+
+ -  [MIT App Inventor](https://appinventor.mit.edu/) 
+ -  Import the project (.aia) 
 
 ##  Installation & Usage
 1.  Upload the Arduino code to the Arduino Uno.

@@ -59,12 +59,12 @@ Stay tuned for updates as we bring this innovative **Smart Plant Care System** t
 
 ### 👥 **Team Members:**  
 
-- **Reshma G.V.S.** – 43611113  
-- **Reena Sherley** – 43611112  
-- **Sri Soundarya** – 4311134  
-- **Tshreya** – 43611144  
-- **Romitha Anadhan** – 43611116  
-- **Janllyn Avanthika** – 43611173
+- **Reshma G.V.S.**
+- **Reena Sherley**   
+- **Sri Soundarya**  
+- **Tshreya**
+- **Romitha Anadhan**  
+- **Janllyn Avanthika** 
 
 ## License
 

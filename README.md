@@ -50,6 +50,11 @@ Smart_Plant_Care_System.aia: The source file, created using MIT App Inventor.
 4.  Pair the device with the HC-05 Bluetooth module.
 5.  Monitor real-time data and control the system remotely via the mobile app.
 
+## Project 
+
+![Alt text](https://github.com/Reshmagvs/Smart-Plant-Care-System/blob/main/1000018247.jpg)
+
+
 Stay tuned for updates as we bring this innovative **Smart Plant Care System** to life! 🌍💡 
 
 ### 👥 **Team Members:**  
